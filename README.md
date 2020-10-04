@@ -32,11 +32,12 @@ The purpose of the election audit was to analyze the election results as well as
 - and highlighted the county with the largest voter turnout.
 
 ### Challenge Summary ###
-![](election_audit.png)
+![](election_audit.png) ![](election_audit2.png)
 - Overall votes in district: 369,711
 - County turnout breakdown:
   - Jeffferson: 10.5% (38855)
   - Denver:     82.8% (306055)
   - Arapahoe:   06.7% (24801)
 - Largest county turnout: Denver
-- 
+- Candidate vote breakdown:
+  - Charles Casper Stockham:  23.0% (85,213)
