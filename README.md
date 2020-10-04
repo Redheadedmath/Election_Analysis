@@ -33,3 +33,10 @@ The purpose of the election audit was to analyze the election results as well as
 
 ### Challenge Summary ###
 ![](election_audit.png)
+- Overall votes in district: 369,711
+- County turnout breakdown:
+  - Jeffferson: 10.5% (38855)
+  - Denver:     82.8% (306055)
+  - Arapahoe:   06.7% (24801)
+- Largest county turnout: Denver
+- 
