@@ -32,4 +32,4 @@ The purpose of the election audit was to analyze the election results as well as
 - and highlighted the county with the largest voter turnout.
 
 ### Challenge Summary ###
-
+![](election_audit.png)
