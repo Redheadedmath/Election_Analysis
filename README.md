@@ -26,5 +26,10 @@ The analysis of the election shows:
   - Candidate Diana DeGette, who recieved 3.1% of the vote and 11,606 votes.
 
 ### Challenge Overview ###
+The purpose of the election audit was to analyze the election results as well as illustrate a clearer picture of voter turnout in the 3 counties within this congressional district. To do this, the audit determined:
+- the number of votes per county
+- the percentage of overall votes cast in each county
+- and highlighted the county with the largest voter turnout.
 
 ### Challenge Summary ###
+
