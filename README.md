@@ -23,7 +23,7 @@ The analysis of the election shows:
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
   - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was: 
-  - Candidate Diana DeGette, who recieved 3.1% of the vote and 11,606 votes.
+  - Candidate Diana DeGette, who recieved 73.8% of the vote and 272,892 votes.
 
 ### Challenge Overview ###
 The purpose of the election audit was to analyze the election results as well as illustrate a clearer picture of voter turnout in the 3 counties within this congressional district. To do this, the audit determined:
